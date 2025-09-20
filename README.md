@@ -15,8 +15,6 @@ Total number of ratings
 Can manage roles and view all data.
 Admin Login Credentials:
 
-Username: admin@example.com Password: admin@123
-
 2. Normal User
 Can sign up and log in.
 Can view all registered stores.
